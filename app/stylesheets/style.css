@@ -1,0 +1,24 @@
+.auto-complete-wrapper {
+    position: relative;
+}
+
+.auto-complete-wrapper ul {
+    padding: 0;
+    margin: 0;
+}
+
+.auto-complete-wrapper ul li {
+    list-style: none;
+    padding: 4px;
+    background-color: #fff;
+    border: 1px solid #cccccc;
+}
+.auto-complete-wrapper ul li:hover {
+    background-color: #009EDB;
+    color: #fff;
+    cursor: pointer;
+}
+.auto-complete-wrapper ul li.selected-record {
+    background-color: #009EDB;
+    color: #fff;
+}
