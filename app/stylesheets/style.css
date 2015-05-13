@@ -5,6 +5,9 @@
 .auto-complete-wrapper ul {
     padding: 0;
     margin: 0;
+    width: 100%;
+    position: absolute;
+    z-index: 1000;
 }
 
 .auto-complete-wrapper ul li {
