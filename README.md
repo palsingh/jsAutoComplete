@@ -7,7 +7,7 @@ A simple AngularJS directive which creates an Auto Complete input field. It get 
 # Setup
 You will need to add AngularJS lib. Download it from [here](https://angularjs.org/).
 
-After adding lib, you need following two files: 
+After adding lib, you need following three files: 
 ```html
   <link href="app/stylesheets/style.css" rel="stylesheet" />
   <script src="app/component/auto-complete/js-auto-complete.js"></script>
