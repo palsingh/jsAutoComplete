@@ -3,7 +3,7 @@
  *
  * Usage:
  *
- * <auto-complete
+ * <js-auto-complete
  *      class-name="form-control"
  *      max-result="15"
  *      create-text="Create Address"
@@ -13,7 +13,7 @@
  *      display-list="true"
  *      placeholder="Some text"
  *      api-end-point="<URL>">
- * </auto-complete>
+ * </js-auto-complete>
  *
  * @attr STRING `class-name` will be applied on the input element.
  * @attr NUMBER `max-result` is maximum results to show in the list. Default: 15 + 1 (create-text).
