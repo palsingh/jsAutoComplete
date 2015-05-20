@@ -21,12 +21,12 @@ var app = angular.module('app', ['jsAutoComplete']);
 ## Usage
 In your view template, add following html tag
 ```html
-  <auto-complete
+  <js-auto-complete
        class-name="form-control"
        max-result="15"
        placeholder="Some text"
        api-end-point="<API_URL>">
-  </auto-complete>
+  </js-auto-complete>
 ```
 
 ### Attributes
